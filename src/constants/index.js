@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  ST,
+  heriot_watt,
+  robociti,
 } from "../assets";
 
 export const navLinks = [
@@ -116,55 +119,36 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Python Content Developer",
+    company_name: "Robociti by Popular Robotics",
+    icon: robociti,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "July 2022 - Aug 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked remotely, as the company is based in China, on developing course content.",
+      "Developed and authored two Python-based machine learning courses, this includes courses on chatbots and game playing bots.",
+      "Enhanced and reformatted an existing machine learning fundamentals course with expanded content."
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Lab Helper",
+    company_name: "Heriot-Watt",
+    icon: heriot_watt,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2023 - April 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Provided technical assistance and guidance with students in the Software Development 2 coursework."
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Software Engineer Intern",
+    company_name: "STMicroelectronics",
+    icon: ST,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jun 2024 - Jan 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked within the Data and Knowledge Engineering team to develop and explore methods to detect defects within image sensors during manufacturing using machine learning.",
+      "Within this, components for a defect detection system was developed and implemented, which used technologies such as: Yolo, Convolutional Autoencoders, and Feature Extraction. Where Python was the main language used."
     ],
   },
 ];

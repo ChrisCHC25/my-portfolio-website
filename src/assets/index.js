@@ -26,6 +26,10 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import robociti from "./company/robociti.png";
+import heriot_watt from "./company/heriot_watt.png";
+import ST from "./company/ST.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+
+  ST,
+  robociti,
+  heriot_watt,
 };

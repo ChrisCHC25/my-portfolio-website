@@ -21,11 +21,21 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+//---
+import python from "./tech/python.png";
+import pytorch from "./tech/pytorch.png";
+import tensorflow from "./tech/tensorflow.png";
+import java from "./tech/java.png";
+import kubernetes from "./tech/kubernetes.png";
+import prometheus from "./tech/prometheus.png";
+import grafana from "./tech/grafana.png";
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+//---
 import robociti from "./company/robociti.png";
 import heriot_watt from "./company/heriot_watt.png";
 import ST from "./company/ST.png";
@@ -67,4 +77,11 @@ export {
   ST,
   robociti,
   heriot_watt,
+  python,
+  pytorch,
+  tensorflow,
+  java,
+  kubernetes,
+  prometheus,
+  grafana,
 };
